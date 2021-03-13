@@ -1,7 +1,7 @@
 # --Courses--
 This repository contains all my work of all the courses taken on my programming journey. The courses and problems are from my learning institutions and all the solutions are mine are mine !!!
 
-1. [Java-Programming-and-Software-Engineering-Fundamentals: A specialization from Duke University via Coursera](https://www.coursera.org/specializations/java-programming?)
+1. [Java-Programming-and-Software-Engineering-Fundamentals: A specialization from Duke University via Coursera](https://github.com/Allos111/--Courses--/tree/main/Java-Programming-And-Software-Engineering-Fundementals)
 
   About this Specialization
 
